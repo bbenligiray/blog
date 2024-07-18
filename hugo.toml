@@ -1,4 +1,12 @@
 baseURL = 'https://blog.benligiray.com/'
 languageCode = 'en-us'
-title = 'bbenligiray blog'
+title = 'blog.benligiray.com'
 theme = 'ananke'
+
+[markup.goldmark.renderer]
+  unsafe= true
+
+[params]
+  custom_css = ["custom.css"]
+  body_classes = "palatino lh-copy bg-near-white"
+  post_content_classes = "palatino lh-copy bg-near-white"

@@ -1,0 +1,73 @@
+.palatino {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+/*
+  The home page header is not displayed.
+*/
+header h1 {
+  display: none;
+}
+
+/*
+  The "read more" button in the home page is not displayed.
+*/
+a.ba.br2 {
+  display: none !important;
+}
+
+/*
+  The title in the post page is not displayed.
+  We depend on the header text instead.
+*/
+article header h1 {
+  display: none;
+}
+
+/*
+  The date in the post page is not displayed.
+  We enter the date manually in header text description.
+*/
+article header time {
+  display: none !important;
+}
+header .fw1 {
+  font-size: 1rem;
+  color: #999;
+}
+
+/* The "POSTS" in the post page is not displayed. */
+article header aside {
+  display: none;
+}
+
+.home-page .post-meta time,
+.home-page article header time {
+  display: block !important;
+  font-size: 0.9rem;
+  color: #888;
+  margin-bottom: 0.5rem;
+}
+
+
+/* Override Ananke cover image styles */
+.bg-top {
+  background-position: center center !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
+
+/* Ensure the image container takes full width and has sufficient height */
+.cover-container {
+  width: 100%;
+  height: 60vh; /* Adjust this value as needed */
+  overflow: hidden;
+}
+
+/* Style the actual image if needed */
+.cover-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
