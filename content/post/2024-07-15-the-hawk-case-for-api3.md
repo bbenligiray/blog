@@ -1,5 +1,6 @@
 +++
 title = 'The Hawk Case for API3'
+date = '2024-07-15'
 description = 'July 2024'
 summary = "July 2024"
 featured_image = '/2024-07-15-the-hawk-case-for-api3-expanded.jpg'
