@@ -1,6 +1,6 @@
 baseURL = 'https://blog.benligiray.com/'
 languageCode = 'en-us'
-title = 'blog.benligiray.com'
+title = '🍳 blog.benligiray.com'
 theme = 'ananke'
 
 [markup.goldmark.renderer]
