@@ -3,7 +3,7 @@ title = 'dAPIs: APIs for dApps'
 date = '2022-03-31'
 description = 'March 2022'
 summary = "March 2022"
-featured_image = '/2022-31-05-dapis-apis-for-dapps-cropped.jpg'
+featured_image = '/2022-31-05-dapis-apis-for-dapps-cropped-upscaled.jpg'
 featured_image_caption = 'Utagawa Yoshitora, Picture of the Twelve Animals to Protect the Safety of the Home, Edo Period.'
 tags = ['API3']
 +++
