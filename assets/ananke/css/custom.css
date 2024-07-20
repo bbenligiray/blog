@@ -67,13 +67,9 @@ article header aside {
   The featured image is centered
 */
 .bg-top {
-  height: 60vh;
   background-position: center center;
 }
 
-.bg-black-60 {
-  height: 60vh;
-}
 
 /*
   Style the figure captions
