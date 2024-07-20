@@ -10,6 +10,27 @@ header h1 {
 }
 
 /*
+  Center recent posts text
+*/
+.blah {
+  display: grid;
+  align-items: center;
+  align-content: center;
+  grid-auto-flow: row;
+  gap: 10px;
+}
+
+/*
+  The home page featured images have a fixed 2:1 aspect ratio
+*/
+.img {
+  width: 40vh;
+  height: 20vh;
+  object-fit: cover;
+  object-position: center;
+}
+
+/*
   The "read more" button in the home page is not displayed.
 */
 a.ba.br2 {
@@ -31,6 +52,7 @@ article header h1 {
 article header time {
   display: none !important;
 }
+
 header .fw1 {
   font-size: 1rem;
   color: #999;
@@ -41,33 +63,24 @@ article header aside {
   display: none;
 }
 
-.home-page .post-meta time,
-.home-page article header time {
-  display: block !important;
-  font-size: 0.9rem;
-  color: #888;
-  margin-bottom: 0.5rem;
-}
-
-
-/* Override Ananke cover image styles */
+/*
+  The featured image is centered
+*/
 .bg-top {
-  background-position: center center !important;
-  background-size: cover !important;
-  background-repeat: no-repeat !important;
+  height: 60vh;
+  background-position: center center;
 }
 
-/* Ensure the image container takes full width and has sufficient height */
-.cover-container {
-  width: 100%;
-  height: 60vh; /* Adjust this value as needed */
-  overflow: hidden;
+.bg-black-60 {
+  height: 60vh;
 }
 
-/* Style the actual image if needed */
-.cover-image {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center center;
+/*
+  Style the figure captions
+*/
+figcaption {
+  font-style: italic;
+  margin-top: -1em;
+  color: #666;
+  text-align: center;
 }
