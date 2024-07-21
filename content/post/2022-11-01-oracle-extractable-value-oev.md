@@ -4,6 +4,7 @@ date = '2022-11-01'
 description = 'November 2022'
 summary = "November 2022"
 featured_image = '/2022-11-01-oracle-extractable-value-oev.jpg'
+images = ['/2022-11-01-oracle-extractable-value-oev.jpg']
 tags = ['API3']
 +++
 

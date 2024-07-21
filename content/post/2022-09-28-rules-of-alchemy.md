@@ -4,6 +4,7 @@ date = '2022-09-28'
 description = 'September 2022'
 summary = "September 2022"
 featured_image = '/2022-09-28-rules-of-alchemy-cropped.jpg'
+images = ['/2022-09-28-rules-of-alchemy-cropped.jpg']
 featured_image_caption = 'Pieter van Laer, Self-Portrait with Magic Scene, 1635-37.'
 tags = []
 +++

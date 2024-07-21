@@ -4,6 +4,7 @@ date = '2024-07-15'
 description = 'July 2024'
 summary = "July 2024"
 featured_image = '/2024-07-15-the-hawk-case-for-api3-expanded.jpg'
+images = ['/2024-07-15-the-hawk-case-for-api3-expanded.jpg']
 featured_image_caption = 'Wang Cheng, A dangerous locking of eyes, 2020.'
 tags = ['API3']
 +++
