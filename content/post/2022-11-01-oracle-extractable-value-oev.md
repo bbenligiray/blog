@@ -3,8 +3,8 @@ title = 'Oracle Extractable Value (OEV)'
 date = '2022-11-01'
 description = 'November 2022'
 summary = "November 2022"
-featured_image = '/2022-11-01-oracle-extractable-value-oev.jpg'
-images = ['/2022-11-01-oracle-extractable-value-oev.jpg']
+featured_image = '/2022-11-01-oracle-extractable-value-oev-upscaled.jpg'
+images = ['/2022-11-01-oracle-extractable-value-oev-upscaled.jpg']
 tags = ['API3']
 +++
 
