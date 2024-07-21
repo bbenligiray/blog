@@ -1,6 +1,6 @@
 baseURL = 'https://blog.benligiray.com/'
 languageCode = 'en-us'
-title = '🍳 blog.benligiray.com'
+title = 'blog.benligiray.com'
 theme = 'ananke'
 
 enableRobotsTXT = true
@@ -18,3 +18,4 @@ enableRobotsTXT = true
   body_classes = "palatino lh-copy bg-near-white"
   post_content_classes = "palatino lh-copy bg-near-white"
   recent_posts_number = 10
+  favicon = "favicon.ico"
