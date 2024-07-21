@@ -53,6 +53,14 @@ article header time {
   display: none !important;
 }
 
+/*
+  The date in the all posts page is not displayed.
+  We enter the date manually in header text description.
+*/
+article aside .f6 {
+  display: none !important;
+}
+
 header .fw1 {
   font-size: 1rem;
   color: #999;
