@@ -19,3 +19,5 @@ enableRobotsTXT = true
   post_content_classes = "palatino lh-copy bg-near-white"
   recent_posts_number = 10
   favicon = "favicon.ico"
+
+[[params.ananke_socials]]
