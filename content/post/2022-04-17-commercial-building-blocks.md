@@ -90,3 +90,5 @@ Since a useless thing won’t become useful spontaneously, the collapse of such 
 The path forward is simple: Keep doing what you’re doing, but also make commercial building blocks available and introduce them into use-cases that you want to make useful.
 The first dApps that are useful, the real world businesses that power them and the smart contract platforms that host them will have gotten from zero to one, and gained an advantage difficult to beat.
 Emergence of useful smart contracts is an unforeseen yet inevitable gold rush, which is why we’re working with a constant sense of urgency on building the picks and shovels for it.
+
+> Also see [The case against "Commercial building blocks"](https://blog.benligiray.com/post/2025-01-02-the-case-against-commercial-building-blocks/).
