@@ -9,7 +9,7 @@ featured_image_caption = 'Wang Cheng, A dangerous locking of eyes, 2020.'
 tags = []
 +++
 
-# or "Why smart contracts are useless and how to fix that"
+### or "Why smart contracts are useless and how to fix that"
 
 It’s a bold claim that smart contracts are useless, so let me start off by justifying it with a thought experiment, _the Crypto Rapture_:
 Imagine that one day all blockchain technology and knowledge suddenly vanished, and whatever funds people had in cryptoassets were magically returned to them at market price, deposited to their bank accounts or simply appeared in their pockets.
@@ -74,7 +74,7 @@ Then, we’ll have to build the commercial building blocks out of these.
 
 Businesses and governments use APIs to provide their data and services in a programmatic way over the Internet.
 The most frictionless approach to making these services available on-chain is integrating the APIs to smart contract platforms directly, with no middlemen.
-We have coined the term _first-party oracle_ for this architecture, and discuss the concept at length in [the API3 whitepaper.](https://raw.githubusercontent.com/api3dao/api3-whitepaper/master/api3-whitepaper.pdf)
+We have coined the term _first-party oracle_ for this architecture, and discuss the concept at length in the [API3 whitepaper.](https://raw.githubusercontent.com/api3dao/api3-whitepaper/master/api3-whitepaper.pdf)
 Then, first-party oracles should not only be thought of as a superior alternative to third-party oracles, but also as the best way of creating these building blocks that will enable useful smart contracts.
 
 <div style="text-align: center"> — </div>
