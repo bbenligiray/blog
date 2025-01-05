@@ -57,7 +57,7 @@ Looking ahead, we can anticipate several critical changes:
 - EVM (and EVM-killers) will fall behind in this stochastic computation paradigm because they're inherently deterministic.
 - The layers of protocols built on and between blockchains will fail to find real use beyond what is already available today.
 
-Smart contracts will likely concede grander ambitions and retreat to their core functions: minting, trading, and lending tokens.
+Smart contracts will likely concede grander ambitions and retreat to their core functions: minting, swapping, and leverage-trading tokens.
 While these may seem modest, they represent genuine, battle-tested value.
 For API3, the strategic imperative becomes clear: excel at serving these established use cases rather than pursuing solutions to smart contracts' fundamental—and likely intractable—limitations.
 
