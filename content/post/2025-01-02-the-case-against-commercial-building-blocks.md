@@ -40,7 +40,7 @@ Once an underdog in machine learning, deep learning shot to dominance after acad
 
 <div style="text-align: center"> — </div>
 
-How can a single deep model outperform an expert's modular solution? When we design building blocks, we make assumptions that often don't perfectly match reality.
+How can a single deep model outperform an expert's modular solution? When we design building blocks, we make assumptions that often don't match reality perfectly.
 These small mismatches compound into significant limitations.
 That's why a unified deep model—one that handles everything previously split across modules—can work better.
 As models improve at generalizing (a reliable trend), the scope of their role can be expanded, which reduces engineering complexity and improves overall performance at the same time.
