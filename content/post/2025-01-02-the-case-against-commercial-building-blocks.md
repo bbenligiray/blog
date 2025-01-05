@@ -35,7 +35,7 @@ While CS students learn to build data structures and algorithms from scratch, re
 Their own code must also work as modular building blocks, ready to be used in larger systems.
 
 Deep learning now challenges this design philosophy.
-By stacking non-linear functions, deep learning creates highly expressive models that, while too complex to design by hand, can learn good-enough solutions from data.
+By stacking non-linear functions, deep learning creates highly expressive models that, while being too complex to design by hand, can learn good-enough solutions from data.
 Once an underdog in machine learning, deep learning shot to dominance after academics found heuristics to make it vastly outperform the competition.
 
 <div style="text-align: center"> — </div>
