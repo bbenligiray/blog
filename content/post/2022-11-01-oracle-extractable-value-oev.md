@@ -38,7 +38,7 @@ If we go back to our liquidation example, the oracles would not need to periodic
 The dApp wouldn’t need to reward the oracles for this, as this is what one pays for when they’re buying an oracle service.
 (As a note, this doesn’t eliminate second-order OEV, e.g., due to cascading liquidations.)
 
-Although our Airnode request–response and publish–subscribe protocols are designed to allow these kinds of novel oracle services to be built, we’re aware that data feeds are not going anywhere soon, and our [dAPIs](https://medium.com/api3/dapis-apis-for-dapps-53b83f8d2493) primarily cater to DeFi projects that require traditional data feeds for this exact reason.
+Although our Airnode request–response and publish–subscribe protocols are designed to allow these kinds of novel oracle services to be built, we’re aware that data feeds are not going anywhere soon, and our [dAPIs](https://blog.benligiray.com/post/2022-31-05-dapis-apis-for-dapps/) primarily cater to DeFi projects that require traditional data feeds for this exact reason.
 This section is just to clarify that OEV is an unwanted side-effect of legacy-DeFi and fundamental limitations of blockchains in general.
 
 ## What to do with OEV?

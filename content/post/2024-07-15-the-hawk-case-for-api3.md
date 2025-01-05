@@ -24,7 +24,7 @@ Having built up a warchest of funds doesn’t really help here, as the competiti
 
 <div style="text-align: center"> — </div>
 
-You may think that I will say "[OEV](https://medium.com/api3/oracle-extractable-value-oev-13c1b6d53c5b) solves this", but that’s not the case.
+You may think that I will say "[OEV](https://blog.benligiray.com/post/2022-11-01-oracle-extractable-value-oev/) solves this", but that’s not the case.
 Yes, it enables API3 to have a viable business model, but this doesn’t stop other oracle projects from recycling the old plan with a twist:
 
 1. Spend funds to washtrade OEV
@@ -66,7 +66,7 @@ On the flip side, oracle projects enlist third-party oracles in the hundreds spe
 Under these circumstances, an oracle is a strategic party to the degree that they’re willing and able to exercise their rights of first-partyness.
 
 Finally, there is the most elusive of them all, the dApps.
-We have already [announced](https://medium.com/api3/oracle-extractable-value-oev-13c1b6d53c5b) that we will kick back the OEV auction proceeds to the dApps.
+We have already [announced](https://blog.benligiray.com/post/2022-11-01-oracle-extractable-value-oev/) that we will kick back the OEV auction proceeds to the dApps.
 This is not only because it’s the right thing to do, but also because the dApps are the party with the most strategic position.
 After all, a dApp stops using API3, and the respective OEV proceeds go to zero.
 It is then implied that we should specifically think about who can make or break the API3 integration.
