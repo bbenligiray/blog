@@ -64,7 +64,7 @@ Alternatively, one can borrow tokens by using some other tokens as collateral, u
 
 Composability is the most powerful aspect of smart contracts, yet the resulting use-cases will only be useful if some of the building blocks are services that are provided by real world businesses.
 Furthermore, these _commercial building blocks_ will be amplified by the existing DeFi blocks, and enable DeFi to facilitate useful use-cases, and not only novel ways of gambling.
-If we revisit the crypto rapture thought experiment, real world business processes being embedded into smart contracts will cause the disappearance of smart contracts to be paralyzing, which indicates that it is the solution to _the uselessness problem_.
+If we revisit the Crypto Rapture thought experiment, real world business processes being embedded into smart contracts will cause the disappearance of smart contracts to be paralyzing, which indicates that it is the solution to _the uselessness problem_.
 
 <div style="text-align: center"> — </div>
 
