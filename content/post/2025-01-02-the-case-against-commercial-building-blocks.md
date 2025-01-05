@@ -16,7 +16,7 @@ Omnimarket proposed to fill the gap by converting low-level oracle services into
 
 When I published the article, Omnimarket was conceived as a prediction market engine, and it later evolved into an assassination market engine.
 Despite completing the contract for the latter version and having it audited, I've since changed direction.
-This past year, I've solely worked on API3's [data feed](http://localhost:1313/post/2022-31-05-dapis-apis-for-dapps/) and [OEV](https://blog.benligiray.com/post/2022-11-01-oracle-extractable-value-oev/) solutions, driven partly by growing doubts about the best case scenario for commercial building blocks.
+This past year, I've solely worked on API3's [data feed](https://blog.benligiray.com/post/2022-31-05-dapis-apis-for-dapps/) and [OEV](https://blog.benligiray.com/post/2022-11-01-oracle-extractable-value-oev/) solutions, driven partly by growing doubts about the best case scenario for commercial building blocks.
 
 My previous article rested on two claims: smart contracts are useless, and useful building blocks could solve this problem.
 The first claim remains true—if smart contracts disappeared today, their absence would barely register.
