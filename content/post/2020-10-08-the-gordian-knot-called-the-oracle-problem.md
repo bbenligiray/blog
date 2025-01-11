@@ -26,3 +26,5 @@ His solution then is to cut the knot into two with his sword, and carry on to fu
 This tale is the embodiment of our approach.
 While everyone is playing within the illusory rules and constraints of the oracle problem, we realized that we have the means to cut the Gordian knot and must take this simple yet daring step:
 use first-party oracles.
+
+{{< figure src="/2020-10-08-the-gordian-knot-called-the-oracle-problem-fresco.jpg" caption="Alexander the Great Cuts the Gordian Knot, fresco by Donato Creti at Palazzo Pepoli Campogrande, Bologna." >}}
