@@ -6,7 +6,7 @@ summary = "March 2022"
 featured_image = '/2022-31-05-dapis-apis-for-dapps-cropped-upscaled.jpg'
 images = ['/2022-31-05-dapis-apis-for-dapps-cropped-upscaled.jpg']
 featured_image_caption = 'Utagawa Yoshitora, Picture of the Twelve Animals to Protect the Safety of the Home, Edo Period.'
-tags = ['API3']
+tags = ['Api3']
 +++
 
 As discussed in the [whitepaper](https://raw.githubusercontent.com/api3dao/api3-whitepaper/master/api3-whitepaper.pdf), the goal of API3 is to "build, manage and monetize dAPIs at scale".

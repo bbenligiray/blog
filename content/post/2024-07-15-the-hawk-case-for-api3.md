@@ -6,7 +6,7 @@ summary = "July 2024"
 featured_image = '/2024-07-15-the-hawk-case-for-api3-expanded.jpg'
 images = ['/2024-07-15-the-hawk-case-for-api3-expanded.jpg']
 featured_image_caption = 'Wang Cheng, A dangerous locking of eyes, 2020.'
-tags = ['API3']
+tags = ['Api3']
 +++
 
 The defining challenge of building oracles is to juggle the wants of vaguely interested sides well enough to get them all to participate in a use case.

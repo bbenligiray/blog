@@ -6,7 +6,7 @@ summary = "October 2020"
 featured_image = '/2020-10-08-the-gordian-knot-called-the-oracle-problem.jpg'
 images = ['/2020-10-08-the-gordian-knot-called-the-oracle-problem.jpg']
 featured_image_caption = 'The Gordian Knot has no ends exposed, making it appear impossible to disentangle.'
-tags = ['API3']
+tags = ['Api3']
 +++
 
 During our years working on oracles, a dissatisfaction slowly brewed at the back of our minds.

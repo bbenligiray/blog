@@ -5,7 +5,7 @@ description = 'November 2022'
 summary = "November 2022"
 featured_image = '/2022-11-01-oracle-extractable-value-oev-upscaled.jpg'
 images = ['/2022-11-01-oracle-extractable-value-oev-upscaled.jpg']
-tags = ['API3']
+tags = ['Api3']
 +++
 
 Oracle extractable value (OEV) refers to oracles making use of their position to capture value that would otherwise have gone to third parties.
