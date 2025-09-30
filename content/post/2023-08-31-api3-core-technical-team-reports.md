@@ -1,5 +1,5 @@
 +++
-title = 'API3 Core Technical Team Reports, December 2020–August 2023'
+title = 'API3 Core Technical Team Reports'
 date = '2023-08-31'
 description = 'December 2020–August 2023'
 summary = "December 2020–August 2023"
