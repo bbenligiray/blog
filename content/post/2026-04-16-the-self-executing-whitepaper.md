@@ -5,7 +5,7 @@ description = 'April 2026'
 summary = "April 2026"
 summary_image = '/2026-04-16-the-self-executing-whitepaper-long-downscaled.png'
 featured_image = '/2026-04-16-the-self-executing-whitepaper-longer-downscaled.png'
-images = ['/2026-04-16-the-self-executing-whitepaper-long-downscaled.png']
+images = ['/2026-04-16-the-self-executing-whitepaper-long-social.png']
 featured_image_caption = 'Trudy Cooper, Ouroboros.'
 tags = ['Api3']
 +++
