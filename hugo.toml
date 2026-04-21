@@ -14,6 +14,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  env = "production"
   custom_css = ["custom.css"]
   body_classes = "palatino lh-copy bg-near-white"
   post_content_classes = "palatino lh-copy bg-near-white"
