@@ -3,8 +3,8 @@ title = 'dAPIs: APIs for dApps'
 date = '2022-03-31'
 description = 'March 2022'
 summary = "March 2022"
-featured_image = '/2022-31-05-dapis-apis-for-dapps-cropped-upscaled.jpg'
-images = ['/2022-31-05-dapis-apis-for-dapps-cropped-upscaled.jpg']
+featured_image = '/2022-03-31-dapis-apis-for-dapps-cropped-upscaled.jpg'
+images = ['/2022-03-31-dapis-apis-for-dapps-cropped-upscaled.jpg']
 featured_image_caption = 'Utagawa Yoshitora, Picture of the Twelve Animals to Protect the Safety of the Home, Edo Period.'
 tags = ['Api3']
 +++
@@ -68,7 +68,7 @@ Once this process has matured, the dAPI management will be transferred to indivi
 It’s not critically important to the user who does the dAPI management, as they will be insured against governance accidents, no matter who caused them.
 Therefore, any risks caused by the dAPI management scheme is considered to be a part of the insurance risk, and is the responsibility of the API3 DAO to manage.
 
-{{< figure src="/2022-31-05-dapis-apis-for-dapps-fig.png" caption="Figure 6 from the whitepaper that depicts dAPI managing entities on individual chains." >}}
+{{< figure src="/2022-03-31-dapis-apis-for-dapps-fig.png" caption="Figure 6 from the whitepaper that depicts dAPI managing entities on individual chains." >}}
 
 We’re fast approaching delivering on API3’s reason for existence, dAPIs, which makes us proud.
 However, as the whitepaper quote goes, the goal is also to do this "at scale", which means creating a dAPI economy that is comparable to Web3 as a whole.
