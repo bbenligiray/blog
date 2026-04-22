@@ -1,0 +1,8 @@
+# {{ .Site.Title }}
+
+> A blog by Burak Benligiray
+
+## Posts
+{{ range (where .Site.RegularPages "Section" "post").ByDate.Reverse }}
+- [{{ .Title }}]({{ .Permalink }}){{ with .Description }}: {{ . }}{{ else }}{{ with .Params.summary }}: {{ . }}{{ end }}{{ end }}
+{{- end }}
